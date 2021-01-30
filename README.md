@@ -21,7 +21,7 @@ For this work can separate a work in to 3 subtasks which are:
 
 ![3](https://github.com/KittapatR/core-standard-curriculum/blob/main/Procedure3.jpg)
 
-The main problem for Thai passage is about a tokenization which is difficult to find a distinction between words. In the early years of development for NLP in Thailand, there is an exact algorithm called Maximal Matching that is trying to tokenize as a least number of words and each word has fair amount of syllables. (That validating a word by using Thai corpus tries.) But, there are still too many issues for doing tokenization in Thai language. Then, in this project, I will use CNN-based model called "DeepCut" to tokenize a passage.
+The main problem for Thai passage is about a tokenization which is difficult to find a distinction between words. In the early years of development for NLP in Thailand, there is an exact algorithm called Maximal Matching that is trying to tokenize as a least number of words and each word has fair amount of syllables. (That validating a word by using Thai corpus tries.) But, there are still too many issues for doing tokenization in Thai language. Then, in this project, I will use CNN-based model called "DeepCut" to tokenize a passage. \[ See more at: https://github.com/rkcosmos/deepcut \]
 
 ## Visualization
 ### Word cloud
